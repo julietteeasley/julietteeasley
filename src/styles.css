@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+@import "../src/assets/fontawesome/css/fontawesome.min.css";
+@import "../src/assets/fontawesome/css/brands.min.css";
+@import "../src/assets/fontawesome/css/solid.min.css";
+
+
+html {
+  background-color: indianred;
+}
+i, i:before {
+  height: 10px !important;
+  width: 10px !important;
+}
+
